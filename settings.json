@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EndlesMC.aternos.me",
-    "port": 30100,
+    "ip": "play.hytrox.xyz/",
+    "port": 20036,
     "version": "1.21.1"
   },
   "position": {
